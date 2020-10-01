@@ -35,8 +35,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/mrbenshef/TeX-Match/",
-                    "tag": "v1.0.0",
-                    "commit": "a2cce9cb0f9804b64584bcc20c8d3606d9043477"
+                    "tag": "v1.0.1",
+                    "commit": "6f2d6d5c06e34fc801b9e7a69ac8243e5a3523bf"
                 },
                 "generated-sources.json"
             ]
