@@ -29,14 +29,15 @@
                 "install -Dm755 ./target/release/tex-match -t /app/bin/",
                 "install -Dm644 ./flatpak/data/${FLATPAK_ID}.metainfo.xml -t /app/share/metainfo/",
                 "install -Dm644 ./flatpak/data/${FLATPAK_ID}.desktop -t /app/share/applications/",
-                "install -Dm644 ./flatpak/data/${FLATPAK_ID}.png -t /app/share/icons/hicolor/256x256/apps/"
+                "install -Dm644 ./flatpak/data/${FLATPAK_ID}.svg -t /app/share/icons/hicolor/scalable/apps/",
+                "install -Dm644 ./flatpak/data/${FLATPAK_ID}-symbolic.svg -t /app/share/icons/hicolor/symbolic/apps/"
             ],
             "sources": [
                 {
                     "type": "git",
                     "url": "https://github.com/mrbenshef/TeX-Match/",
-                    "tag": "v1.0.1",
-                    "commit": "6f2d6d5c06e34fc801b9e7a69ac8243e5a3523bf"
+                    "tag": "v1.1.0",
+                    "commit": "d019a87a24c6bd6621ad8ebf386a0f345de17b83"
                 },
                 "generated-sources.json"
             ]
