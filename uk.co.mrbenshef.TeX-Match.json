@@ -35,9 +35,9 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://github.com/mrbenshef/TeX-Match/",
-                    "tag": "v1.1.0",
-                    "commit": "d019a87a24c6bd6621ad8ebf386a0f345de17b83"
+                    "url": "https://github.com/zoeyfyi/TeX-Match/",
+                    "tag": "v1.1.1",
+                    "commit": "c859a59021315c756d936d7c6668afb2e022f425"
                 },
                 "generated-sources.json"
             ]
