@@ -1,5 +1,7 @@
 {
     "only-arches": [
         "x86_64"
-    ]
+    ],
+    "end-of-life": "The application has been renamed to fyi.zoey.TeX-Match",
+    "end-of-life-rebase": "fyi.zoey.TeX-Match"
 }
